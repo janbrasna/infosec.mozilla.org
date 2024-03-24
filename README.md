@@ -1,3 +1,8 @@
+> [!Warning]
+> This preview branch is edited for relative links!
+
+- - - - - -
+
 # infosec.mozilla.org
 Guidelines, principles published on https://infosec.mozilla.org
 
