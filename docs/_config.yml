@@ -1,5 +1,5 @@
 # See https://jekyllrb.com/docs/configuration/
 theme: jekyll-theme-slate
-#baseurl: /
+baseurl: /infosec.mozilla.org
 sass:
     sass_dir: _sass
